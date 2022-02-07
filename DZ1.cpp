@@ -154,6 +154,7 @@ int WriteToFile(int numberWordsAndOdd, int numberEven, int* Even, char(*LettersA
 	fprintf(ptrNew, "%c", '\n');
 
 }
+//qwe
 
 
 
